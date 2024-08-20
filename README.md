@@ -1,14 +1,10 @@
 <html dir="rtl">
-
+<div dir="rtl">
 
 # Awesome Iran open data
-<div dir="rtl">
-<style>
-    h1 {
-        text-align: left;
-    }
-</style>
-</div>
+
+
+
 ![Open Source](https://img.shields.io/badge/Open_Source-مجوز_آزاد-007EC6?style=flat&logo=open-source-initiative&logoColor=white)   ![Open Data](https://img.shields.io/badge/Open_Data-داده‌_باز-008000?style=flat&logo=open-access&logoColor=white)      ![GitHub Repo stars](https://img.shields.io/github/stars/alirezach/awesome-iran-opendata)
 
 این مخزن با ایده تسهیل دسترسی و آشنایی پژوهشگران و روزنامه‌نگاران به داده‌های باز با محوریت اختصاصی ایران ساخته شده‌است که شامل منابع دولتی، مراکز پژوهشی دولتی، مراکز بین‌المللی و موسسات مستقل اشتراک‌گذاری داده
@@ -16,14 +12,9 @@
 (با ستاره دادن به من و با انتشارش به کسانی که پژوهشگر یا روزنامه‌نگار هستند انرژی بدید.)
 
 ### دسترسی سریع به منابع
-- [Awesome Iran open data](#awesome-iran-open-data)
-    - [دسترسی سریع به منابع](#دسترسی-سریع-به-منابع)
-  - [داده‌های رسمی و دولتی](#دادههای-رسمی-و-دولتی)
-  - [مراکز پژوهشی رسمی](#مراکز-پژوهشی-رسمی)
-  - [منابع رسمی بین‌المللی](#منابع-رسمی-بینالمللی)
-  - [موسسات مستقل اشتراک‌گذاری داده](#موسسات-مستقل-اشتراکگذاری-داده)
-  - [پلتفرم‌های اشتراک داده](#پلتفرمهای-اشتراک-داده)
-    - [این مخزن به مرور تکمیل می‌گردد.](#این-مخزن-به-مرور-تکمیل-میگردد)
+ [داده‌های رسمی و دولتی](#دادههای-رسمی-و-دولتی)<br> [مراکز پژوهشی رسمی](#مراکز-پژوهشی-رسمی)<br>[منابع رسمی بین‌المللی](#منابع-رسمی-بینالمللی)<br>[موسسات مستقل اشتراک‌گذاری داده](#موسسات-مستقل-اشتراکگذاری-داده)<br>[پلتفرم‌های اشتراک داده](#پلتفرمهای-اشتراک-داده)
+
+
 
 
 ## داده‌های رسمی و دولتی
@@ -142,6 +133,8 @@
 اگر علاقه‌مند به داده‌های باز هستید، به مخزن [Awesome Public Data](https://github.com/awesomedata/awesome-public-datasets) نیز سر بزنید.
 
 
+
+#### منابع
 بخشی از اطلاعات این مخزن از منابع زیر جمع‌اوری شده‌اند:
 
 1. [داده‌های عمومی در ایران](https://d-learn.ir/courses/storytelling-data-and-journalism/lesson/public-data-in-iran/)،دقیقه
@@ -150,9 +143,10 @@
 
 ### این مخزن به مرور تکمیل می‌گردد.
 
+
 اگر منابع دیگری می‌شناسید، می‌توانید به لیست فوق اضافه کنید.
-یا مستقیما به [![GitHub](https://img.shields.io/badge/GitHub-مخزن_پروژه-181717?style=flat&logo=github&logoColor=white)](https://github.com/alirezach/awesome-iran-opendata) سربزنید و پیشنهادات خود را ثبت کنید.
+ مستقیما به [![GitHub](https://img.shields.io/badge/GitHub-مخزن_پروژه-181717?style=flat&logo=github&logoColor=white)](https://github.com/alirezach/awesome-iran-opendata) سربزنید و پیشنهادات خود را ثبت کنید.
 یا اگر آشنایی با فضای گیتهاب ندارید به ایمیل [![Email](https://img.shields.io/badge/Email-من-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alireza.chamanzar91@gmail.com) ارسال کنید.
 
-
+</div>
 </htm>

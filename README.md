@@ -8,7 +8,7 @@
 ![Open Source](https://img.shields.io/badge/Open_Source-مجوز_آزاد-007EC6?style=flat&logo=open-source-initiative&logoColor=white)   ![Open Data](https://img.shields.io/badge/Open_Data-داده‌_باز-008000?style=flat&logo=open-access&logoColor=white)      ![GitHub Repo stars](https://img.shields.io/github/stars/alirezach/awesome-iran-opendata)
 
 این مخزن با ایده تسهیل دسترسی و آشنایی پژوهشگران و روزنامه‌نگاران به داده‌های باز با محوریت اختصاصی ایران ساخته شده‌است که شامل منابع دولتی، مراکز پژوهشی دولتی، مراکز بین‌المللی و موسسات مستقل اشتراک‌گذاری داده
-می‌باشد.
+می‌باشد.<br>
 (با ستاره دادن به من و با انتشارش به کسانی که پژوهشگر یا روزنامه‌نگار هستند انرژی بدید.)
 
 ### دسترسی سریع به منابع

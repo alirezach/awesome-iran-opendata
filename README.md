@@ -98,7 +98,7 @@
 | 5    | [World Inequality Database](https://wid.world/country/iran/)                                            | اقتصادی                         | Dashboard<br/>CSV<br/>xlsx<br/>sdmax | دیتابیس جهانی نابرابری                         |
 | 6    | [UNFPA](https://www.unfpa.org/)                                                                         | اجتماعی، اقتصادی، فرهنگی، آموزش | chart<br/>map<br/>csv                | صندوق جمعیت سازمان ملل                         |
 | 7    | [ILO](https://ilostat.ilo.org/data/)                                                                    | کار                             | csv<br/>xlsx<br/>dta                 | سازمان جهانی کار                               |
-|      |                                                                                                         |                                 |                                      |                                                |
+| 8     | [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset)                                                                                                        |                اقلیمی                 |              NetCDF                        |                             خدمات تغییر اقلیم کوپرنیک                   |
 
 
 

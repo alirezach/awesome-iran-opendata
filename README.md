@@ -1,4 +1,3 @@
-<html dir="rtl">
 <div dir="rtl">
 
 # Awesome Iran open data
@@ -181,6 +180,7 @@
 
 <br>
 <br>
-پشتیبانی شده با [انگاره](https://engare.net)
+
+<small>پشتیبانی شده با [انگاره](https://engare.net)</small>
+
 </div>
-</htm>

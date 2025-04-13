@@ -1,8 +1,12 @@
+<div dir="rtl">
+
 ## دیتاست‌های عمومی وب فارسی
 
-در ادامه دیتاست‌هایی که افراد و تیم‌ها در اینترنت به صورت عمومی منتشر ;کرده‌اند را می‌توانید ببینید.
+در ادامه دیتاست‌هایی که افراد و تیم‌ها در اینترنت به صورت عمومی منتشر کرده‌اند را می‌توانید ببینید.
 
 اگر دیتاستی دارید و تمایل به انتشار آن دارید می‌توانید از بخش issue آن را معرفی کنید تا در لیست زیر قرار بگیرد.
+
+#### [برگشت به صفحه اول](https://github.com/alirezach/awesome-iran-opendata)
 
 ## دیتاست‌های جمع‌آوری شده عمومی
 
@@ -11,6 +15,9 @@
 | 1    | [دیدگاه‌ها و محصولات دیجی‌کالا](https://www.kaggle.com/datasets/radeai/digikala-comments-and-products)    | Rade AI       | csv   | |
 | 2 | [دیدگاه‌ها و محصولات با سلام](https://www.kaggle.com/datasets/radeai/basalam-comments-and-products)    | Rade AI       | csv   | |
 | 3 | [یک میلیون آگهی املاک سایت دیوار](https://huggingface.co/datasets/divaroffical/real_estate_ads) | دیوار | csv   | این دیتاست که از طرف خود دیوار منتشر شده، شامل ۶۲ ستون هست که تمامی اطلاعاتی که در آگهی‌ها ثبت شده در آن وجود دارد.|
-|
+||
 
 
+#### [برگشت به صفحه اول](https://github.com/alirezach/awesome-iran-opendata)
+
+</div>

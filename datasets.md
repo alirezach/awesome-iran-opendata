@@ -10,6 +10,7 @@
 |:----:|:--------------------------------------------------------------------:|:---------:|:-------------:|:---------------------------------------------------------------:|
 | 1    | [دیدگاه‌ها و محصولات دیجی‌کالا](https://www.kaggle.com/datasets/radeai/digikala-comments-and-products)    | Rade AI       | csv   | |
 | 2 | [دیدگاه‌ها و محصولات با سلام](https://www.kaggle.com/datasets/radeai/basalam-comments-and-products)    | Rade AI       | csv   | |
-| 3 | 
+| 3 | [یک میلیون آگهی املاک سایت دیوار](https://huggingface.co/datasets/divaroffical/real_estate_ads) | دیوار | csv   | این دیتاست که از طرف خود دیوار منتشر شده، شامل ۶۲ ستون هست که تمامی اطلاعاتی که در آگهی‌ها ثبت شده در آن وجود دارد.|
+|
 
 

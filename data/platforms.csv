@@ -1,0 +1,9 @@
+id,title,url,category,topics,formats,description,active
+1,Google Public data,https://www.google.com/publicdata/directory,platforms,*,"csv, pdf",آرشیو داده‌های عمومی,True
+2,Google Trends,https://trends.google.com/trends/,platforms,*,csv,ترندهای جست‌و‌جو در گوگل,True
+3,Google Dataset Searche,https://datasetsearch.research.google.com/,platforms,*,-,جست‌و‌جو در دیتاست‌های عمومی,True
+4,Data Commons (Google),https://datacommons.org/place/country/IRN,platforms,*,"chart, csv",تجمیع داده‌های اجتماعی اقتصادی کل جهان از مراکز رسمی بین‌المللی,True
+5,Kaggle,https://www.kaggle.com/,platforms,*,,اشتراک‌گذاری دیتاست‌های عمومی و شخصی مثل داده‌کاوی‌ها,True
+6,Huggingface,https://huggingface.co/docs/datasets/index,platforms,*,,اشتراک‌گذاری دیتاست‌های عمومی و شخصی مثل داده‌کاوی‌ها,True
+7,GitHub,https://github.com,platforms,*,,اشتراک‌گذاری دیتاست‌های عمومی و شخصی مثل داده‌کاوی‌ها,True
+8,Hardvard Dataverse,https://dataverse.harvard.edu/,platforms,*,,اشتراک‌گذاری دیتاست‌های کار شده در مقالات پژوهشی,True

@@ -1,0 +1,4 @@
+id,title,url,category,publisher,topics,formats,description,active
+1,دیدگاه‌ها و محصولات دیجی‌کالا,https://www.kaggle.com/datasets/radeai/digikala-comments-and-products,datasets,Rade AI,,CSV,,True
+2,دیدگاه‌ها و محصولات با سلام,https://www.kaggle.com/datasets/radeai/basalam-comments-and-products,datasets,Rade AI,,CSV,,True
+3,یک میلیون آگهی املاک سایت دیوار,https://huggingface.co/datasets/divaroffical/real_estate_ads,datasets,دیوار,"املاک, آگهی",CSV,این دیتاست که از طرف خود دیوار منتشر شده، شامل ۶۲ ستون هست که تمامی اطلاعاتی که در آگهی‌ها ثبت شده در آن وجود دارد.,True

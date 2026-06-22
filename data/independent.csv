@@ -1,0 +1,11 @@
+id,title,url,category,topics,formats,description,active
+1,داده‌های باز ایران,https://iranopendata.org/dataset/,independent,*,"csv, pdf",انتشار داده‌های رسمی، غیررسمی و بین‌المللی مربوط به ایران,True
+2,داده (نمای شاخص‌های اجتماعی، اقتصادی و سیاسی ),https://dadeh.org/fa,independent,*,"csv, pdf",انتشار داده‌های رسمی، غیررسمی و بین‌المللی مربوط به ایران,True
+3,ایران بودجه,https://iranbudget.org/,independent,بودجه,"csv, chart",انتشار نسخه قابل تحلیل بودجه,True
+4,Iran Social Science Data Portal,https://irandataportal.syr.edu/,independent,*,,زیر نظر دانشگاه Syracuse <br/>به‌روز نیست اما اسناد تاریخی زیادی در آن موجود هست.,True
+5,Thirtyone Land,https://fa.thirtyone.land/,independent,*,"chart, csv",انتشار داده‌های رسمی، غیررسمی و بین‌المللی مربوط به ایران,True
+6,داده‌های مجله دقیقه,https://d-learn.ir/tag/%d8%af%d8%a7%d8%af%d9%87%d9%87%d8%a7%db%8c-%d9%85%d8%ac%d9%84%d9%87-%d8%af%d9%82%db%8c%d9%82%d9%87/,independent,*,csv,انتشار داده‌های عمومی,True
+7,Our world in Data,https://ourworldindata.org/search?q=iran,independent,*,"chart, csv",انتشار داده‌های عمومی کشورها از منابع معتبر,True
+8,Stanford Iran 2040,https://iranian-studies.stanford.edu/iran-2040-project/home,independent,*,chart,پروژه ایران 2040 زیر نظر مرکز مطالعات ایرانیان دانشگاه استفورد,True
+9,رسمیو,https://rasmio.com/,independent,اطلاعات شرکت‌ها,-,اطلاعات تاسیس، تغییرات شرکت‌ها، اشخاص مربوطه و ...<br/>(دسترسی رایگان محدود است),True
+10,لینکا,https://linka.ir/,independent,اطلاعات شرکت‌ها,-,اطلاعات تاسیس، تغییرات شرکت‌ها، اشخاص مربوطه و ...<br/>(دسترسی رایگان محدود است),True

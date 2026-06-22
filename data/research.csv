@@ -1,0 +1,8 @@
+id,title,url,category,topics,formats,description,active
+1,مرکز پژوهش‌های مجلس,https://rc.majlis.ir/,research,*,pdf,,True
+2,مقالات و طرح های وزارت تعاون، کار و رفاه اجتماعی (mcls.gov.ir),https://www.mcls.gov.ir/fa/kar/maghalat-%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d9%88-%d8%b7%d8%b1%d8%ad-%d9%87%d8%a7,research,اجتماعی و اقتصادی,pdf,,True
+3,پایگاه ملی اطلاع رسانی قوانین و مقررات کشور (dotic.ir),https://dotic.ir/,research,قانون‌ها، لوایح،  طرح‌ها، آیین‌نامه‌ها و مصوبات حقوقی,متن,معاونت تدوین، تنقیح و انتشار قوانین و مقررات معاونت حقوقی ریاست جمهوری,True
+4,مرکز افکارسنجی دانشجویان ایران (ispa.ir),https://ispa.ir/Default/Index/fa,research,رصد افکار عمومی,pdf,جهاد دانشگاهی,True
+5,دفتر مطالعات و برنامه‌ریزی راهبردی وزارت ارشاد,https://motaleat.farhang.gov.ir/,research,فرهنگی,pdf,گزارشات سالانه و آمارهای فرهنگ و هنر,True
+6,موسسه پژوهش و برنامه ریزی آموزش عالی (irphe.ac.ir),https://irphe.ac.ir/,research,- گزارش‌ها و پژوهش‌های آموزش عالی,"pdf, chart",موسسه پژوهشی وزارت علوم,True
+7,معاونت بررسی های اقتصادی اتاق بازرگانی تهران,https://economy.tccim.ir/,research,اقتصادی,pdf,,True

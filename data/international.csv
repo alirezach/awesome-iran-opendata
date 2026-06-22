@@ -1,0 +1,18 @@
+id,title,url,category,topics,formats,description,active
+1,World Bank,https://data.worldbank.org/country/iran-islamic-rep,international,اقتصادی و اجتماعی,"Chart, xlsx, CSV",بانک جهانی,True
+2,IMF,https://www.imf.org/en/Countries/IRN,international,اقتصادی,"xlsx, pdf, chart",صندوق بین‌المللی پول,True
+3,UNESCO,https://www.unesco.org/en/data-center,international,اجتماعی، فرهنگی و اقتصادی,"xlsx, dahsboard, csv",یونسکو (سازمان آموزشی، علمی و فرهنگی ملل متحد),True
+4,OECD Data Explorer,https://data-explorer.oecd.org,international,اقتصادی و اجتماعی,"dashboard, csv",سازمان همکاری و توسعه اقتصادی,True
+5,OECD Library,https://www.oecd-ilibrary.org/,international,اقتصادی و اجتماعی,"dashboard, csv",سازمان همکاری و توسعه اقتصادی,True
+6,World Inequality Database,https://wid.world/country/iran/,international,اقتصادی,"Dashboard, CSV, xlsx, sdmax",دیتابیس جهانی نابرابری,True
+7,UNFPA,https://www.unfpa.org/,international,اجتماعی، اقتصادی، فرهنگی، آموزش,"chart, map, csv",صندوق جمعیت سازمان ملل,True
+8,ILO,https://ilostat.ilo.org/data/,international,کار,"csv, xlsx, dta",سازمان جهانی کار,True
+9,Climate Data Store,https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset,international,اقلیمی,NetCDF,خدمات تغییر اقلیم کوپرنیک,True
+10,UN Data - United Nation,https://data.un.org/Default.aspx,international,*,"csv, XML",مرکز داده سازمان ملل,True
+11,UN Stats,https://unstats.un.org/UNSDWebsite,international,*,csv,بخش آمار دپارتمان اقتصاد و جامعه سازمان ملل,True
+12,WHO Data,https://www.who.int/data,international,سلامتی،‌بهداشت، بیماری‌ها و ...,"csv, dashboard",داده‌های سازمان جهانی بهداشت,True
+13,UN Womens Data,https://data.unwomen.org/,international,شاخص‌های آماری زنان در جهان,"csv, Dashboard, Chart",مرکز داده زنان سازمان ملل,True
+14,UNICEF,https://data.unicef.org/country/irn/,international,کودکان و زنان,"csv, xls, chart",یونیسف,True
+15,United Nation Office on Drugs and Crime-UNODC,https://www.un.org/en,international,مواد مخدر، قتل، قاچاق اسلحه، تجاوز، زندانیان و ...,chart,دفتر مقابله با مواد مخدر و جرم سازمان ملل,True
+16,World Value Survey,https://www.worldvaluessurvey.org/wvs.jsp,international,نظرسنجی‌ای که در بسیاری از کشورها برگزار می‌شود,csv,پیمایش ارزش‌های جهانی,True
+17,UN Tourism,https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard,international,گردشگری,dhashboard,مرکز گردشگری سازمان ملل,True

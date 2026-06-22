@@ -120,7 +120,8 @@
 | 14 | [UNICEF](https://data.unicef.org/country/irn/) | کودکان و زنان | csv<br/> xls<br/> chart | یونیسف |
 | 15 | [United Nation Office on Drugs and Crime-UNODC](https://www.un.org/en) | مواد مخدر، قتل، قاچاق اسلحه، تجاوز، زندانیان و ... | chart | دفتر مقابله با مواد مخدر و جرم سازمان ملل |
 | 16 | [World Value Survey](https://www.worldvaluessurvey.org/wvs.jsp) | نظرسنجی‌ای که در بسیاری از کشورها برگزار می‌شود | csv | پیمایش ارزش‌های جهانی |
-| 17 | [UN Tourism](https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard) | گردشگری | dhashboard | مرکز گردشگری سازمان ملل |
+| 17 | [UN Tourism](https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard) | گردشگری | dashboard | مرکز گردشگری سازمان ملل |
+| 18 | [UNICEF DATA](https://data.unicef.org/) | کودکان و زنان | xls<br/> dashboard<br/> chart | یونیسف (سازمان ملل) |
 
 ## موسسات مستقل اشتراک‌گذاری داده
 

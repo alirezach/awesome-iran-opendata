@@ -1,0 +1,33 @@
+name: Rebuild README from CSV data
+
+on:
+  push:
+    paths:
+      - "data/**.csv"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run README builder
+        run: python scripts/build_readme.py
+
+      - name: Commit updated README and datasets.md
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-rebuild README from CSV data [skip ci]"
+          file_pattern: "README.md datasets.md"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"

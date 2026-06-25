@@ -122,6 +122,7 @@
 | 16 | [World Value Survey](https://www.worldvaluessurvey.org/wvs.jsp) | نظرسنجی‌ای که در بسیاری از کشورها برگزار می‌شود | csv | پیمایش ارزش‌های جهانی |
 | 17 | [UN Tourism](https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard) | گردشگری | dashboard | مرکز گردشگری سازمان ملل |
 | 18 | [UNICEF DATA](https://data.unicef.org/) | کودکان و زنان | xls<br/> dashboard<br/> chart | یونیسف (سازمان ملل) |
+| 19 | [UN Water](https://www.sdg6data.org/en) | داده‌های مرتبط با آب و بهداشت اهداف توسعه پایدار SDG6 | csv<br/> map<br/> chart | آب سازمان ملل |
 
 ## موسسات مستقل اشتراک‌گذاری داده
 

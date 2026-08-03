@@ -172,7 +172,7 @@
 ### این مخزن به مرور تکمیل می‌گردد.
 
 اگر منابع دیگری می‌شناسید و تمایل دارید که به لیست فوق اضافه کنید می‌توانید از بخش 
- [![GitHub](https://img.shields.io/badge/GitHub-Issues-181717?style=flat&logo=github&logoColor=white)](https://github.com/alirezach/awesome-iran-opendata/issues) آنها را ثبت کنید. داده‌ها به تفکیک در پوشه [data](/datas) در قالب csv هستند. فایل‌های README به صورت خودکار پس از تایید نهایی، به‌روز می‌شود.
+ [![GitHub](https://img.shields.io/badge/GitHub-Issues-181717?style=flat&logo=github&logoColor=white)](https://github.com/alirezach/awesome-iran-opendata/issues) آنها را ثبت کنید. داده‌ها به تفکیک در پوشه [data](/data) در قالب csv هستند. فایل‌های README به صورت خودکار پس از تایید نهایی، به‌روز می‌شود.
 یا اگر آشنایی با فضای گیتهاب ندارید به ایمیل [![Email](https://img.shields.io/badge/Email-من-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alireza.chamanzar91@gmail.com) ارسال کنید.
 
 #### اطلاعات ثبتی مورد نیاز به این شرح هست:

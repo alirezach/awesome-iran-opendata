@@ -9,3 +9,4 @@ id,title,url,category,topics,formats,description,active
 8,Stanford Iran 2040,https://iranian-studies.stanford.edu/iran-2040-project/home,independent,*,chart,پروژه ایران 2040 زیر نظر مرکز مطالعات ایرانیان دانشگاه استفورد,True
 9,رسمیو,https://rasmio.com/,independent,اطلاعات شرکت‌ها,-,اطلاعات تاسیس، تغییرات شرکت‌ها، اشخاص مربوطه و ...<br/>(دسترسی رایگان محدود است),True
 10,لینکا,https://linka.ir/,independent,اطلاعات شرکت‌ها,-,اطلاعات تاسیس، تغییرات شرکت‌ها، اشخاص مربوطه و ...<br/>(دسترسی رایگان محدود است),True
+11,DataInt Databook,https://databook.dataint.net/fa/کشورها/ایران/,independent,*,-,داده‌های ایران گردآوری‌شده از منابع بین‌المللی (بانک جهانی، سازمان ملل، یونسکو، ورلد فکت‌بوک) با ذکر منبع برای هر مقدار<br/>(وب‌سایت است؛ فایل دانلودی یا API ندارد),True
